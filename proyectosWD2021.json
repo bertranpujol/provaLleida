@@ -1,0 +1,53 @@
+[{
+    "id": 1,
+    "Nom": "Atopee!!",
+    "Descripció": "Carrer Alcalde Costa, 65, 25002 Lleida",
+    "srcimg": "https://lh3.googleusercontent.com/p/AF1QipOQWJ7eMxdJr66i_KSv0n4Hv0toPSsbncv3Orj6=s1360-w1360-h1020",
+    "alt": "Texto alternativo de la imágen",
+    "Informació": "Bar que destaca per la amabilitat dels seus amos i pels seus preus imbatibles. Entrepans de barra a 5€ i cerveses a 1€ el fan difícil de superar."
+},
+{
+    "id": 2,
+    "Nom": "Biloba",
+    "Descripció": "Carrer Ivars d'Urgell, S/N, 25191 Lleida",
+    "srcimg": "https://www.lleida.com/sites/default/files/styles/large/public/web_uid_4102/web/lleida.com_-_biloba_lleida_8.jpg?itok=mmbfv0Au",
+    "alt": "Descripción de la imágen",
+    "Informació": "Si busques bona festa a Biloba la trobaràs. Fan atractiu el local aspectes com la ubicació, que és un lloc de renom, la bona comunicació amb el transport públic i la bona música!"
+    
+},
+{
+    "id": 3,
+    "Nom": "Cinemes Alpicat",
+    "Descripció": "Sortida 458 A2-Autovía del Nordeste, Carrer Camí Vell, 57, 25110 Alpicat, Lleida",
+    "srcimg": "https://www.7accents.cat/imatges/noticies/blw1t3fcuaa0q9z.jpg",
+    "alt": "Descripción de la imágen",
+    "Informació": "Cinema a les afores de Lleida que no deixarà descontent a ningú. Prepara't per agafar el cotxe i anar amb els amics a disfrutar d'un cinema dels més complerts de la zona."
+    
+},
+{
+    "id": 4,
+    "Nom": "Bolera Agrònoms",
+    "Descripció": "Av. Alcalde Rovira Roure, 195, 25198 Lleida",
+    "srcimg": "https://www.ozonebowling.com/wp-content/uploads/2023/08/5-7.png",
+    "alt": "Descripción de la imágen",
+    "Informació": "Al costat de la famosa zona d'Agrònoms trobem aquesta fantàstica bolera. Agafa la tarda lliure ja que entre els bolos i les mil i una màquines que tenen no et veuràn el pèl fins l'endemà."
+    
+},
+{
+    "id": 5,
+    "Nom": "Pecaditos",
+    "Descripció": "Av. de Balmes, 13, 25006 Lleida",
+    "srcimg": "https://lh5.googleusercontent.com/p/AF1QipObaEX9XSb6qLFfoDGVu4i8LIQq-MrYP-GRUvcC",
+    "alt": "Descripción de la imágen",
+    "Informació": "Petit local que conta amb una gran terrassa. Destaca per la seva oferta que per 2,50€ t'emportes 500ml de cervesa i un frankfurt."
+},
+{
+    "id": 6,
+    "Nom": "Anytime Fitness",
+    "Descripció": "Carrer Lluís Companys, 2, 25003 Lleida",
+    "srcimg": "https://blog.anytimefitness.es/wp-content/uploads/2019/02/Dani_Oses_AFLleida.jpg",
+    "alt": "Descripción de la imágen",
+    "Informació": "Si busques un bon gimnàs, no busquis més. Anytime Fitness destaca, tant per com el seu nom indica, estar obert sempre, fet que va perfecte pels estudiants que van més apretats com per tenir totes les màquines que et puguis imaginar.."
+}
+
+]
